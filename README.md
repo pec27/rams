@@ -3,7 +3,7 @@ rams
 
 ### Rapid Mixed Strategies (RaMS) via a hide-search game
 
-rams is an open-source implementation of O(N log N) solvers for two hide-search games of N sites.
+rams is an open-source implementation of O(N log N) solvers for two hide-search games of N sites, used in the paper "Two hide-search games with rapid strategies for multiple parallel searches" (Open Computer Science, 12, 1, 171–180, [open access](https://www.degruyter.com/document/doi/10.1515/comp-2022-0243/html)).
 
 This is implemented in C (C99) with a python interface (requiring numpy)
 
